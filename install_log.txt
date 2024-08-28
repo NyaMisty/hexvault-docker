@@ -1,0 +1,411 @@
+$ ./hexvault90_x64linux.run
+----------------------------------------------------------------------------
+Welcome to the Hex-Rays Vault Setup Wizard.
+
+----------------------------------------------------------------------------
+Please read the following License Agreement. You must accept the terms of this
+agreement before continuing with the installation.
+
+Press [Enter] to continue:
+Hex-Rays End User License Agreement
+
+This End User License Agreement ("EULA") is a binding agreement between Hex Rays
+SA, with registered seat located at Rue Rennequin-Sualem 34, 4000 Li ge, Belgium
+and registered with the Belgian Crossroad Bank of Enterprises under number
+0873.473.914 ("HEX-RAYS", "we", "our", "us") and you ("You" or "End User") and
+govern your use of the HEX-RAYS's software ("Software") and Documentation.
+
+If you do not agree to the terms of this EULA, HEX-RAYS will not and does not
+grant you the right to use the Software and you must not use the Software.
+
+In case the terms of this EULA are in conflict with any other terms of use or
+terms and conditions, the terms of this EULA will take precedence.
+
+HEX-RAYS may, in its sole discretion, change, supplement or amend the terms of
+this EULA as they relate to your future use of the Software and it may do so
+from time to time, for any reason, and with a one (1) week prior notice. If you
+do not agree to these new terms, you can discontinue the use of the Software.
+
+DEMO LICENSE. If You are licensing the Software for evaluation purposes ("Demo
+License"), Your use of the Software is only permitted in a non-commercial
+environment and for a limited period of time.  The demo version of the Software
+is intended to demonstrate the capabilities of the full version of the Software
+Press [Enter] to continue:
+whose license terms are described hereafter. Notwithstanding any other provision
+in this EULA, a Demo License of the Software is provided "as is" without
+indemnification, support or warranty of any kind, expressed or implied. The Demo
+License is licensed on a "per user" basis subject to the terms of this EULA.
+Each copy of the Software can only be used by a single user at a time. You may
+install the Software on Your office workstation, personal laptop and home
+computer, provided that no other user uses the Software on those computers.
+
+EDUCATIONAL LICENSE. If You are licensing the Software for educational purposes
+("Educational License"), Your use of the Software is only permitted in a
+non-commercial environment.  The educational version of the Software is intended
+to teach students during program analysis and/or reverse engineering courses. It
+can be used by universities and other academic institutions that publicly enrol
+students on a regular basis, specifically excluding military institutions.
+Notwithstanding any other provision in this EULA, the Educational License of the
+Software is provided "as is" without indemnification, support or warranty of any
+kind, expressed or implied. The Educational License is licensed on a "per
+computer" basis subject to the terms of this EULA.
+
+FREE LICENSE. If You are licensing a free version of the Software ("Free
+License"), Your use of the Software is only permitted in a non-commercial
+environment and subject to the terms of this EULA.  Each copy of the Software
+and Documentation provided under a Free License can only be used by a single
+Press [Enter] to continue:
+user at a time. Each Free License permits You to install the Software on Your
+personal laptop and home computer, provided that no other user uses the Software
+on those computers. Notwithstanding any other provision in this EULA, the Free
+License of the Software is provided "as is" without indemnification, support or
+warranty of any kind, expressed or implied.
+
+1. GRANT AND SCOPE OF LICENSE
+
+1.1. Subject to the terms and conditions of this EULA, You are granted a
+limited, non-exclusive, non-transferable, non sub-licensable, revocable license
+to use the Software and its associated documentation ("Documentation") for: (i)
+Your personal and non-commercial purposes, if You are licensed a Demo License,
+Educational License or Free License, or (ii) Your internal business purposes, if
+You are licensed any other Software which is not licensed under a Demo License,
+Educational License or Free License. Your right to use the Software is limited
+by all terms and conditions set forth in these EULA.
+
+1.2. If You are a business entity, You may allow Your contractors (each, a
+"Permitted Third Party") to use the Software solely for the purpose of providing
+services to You, provided that such use is in compliance with this EULA. You are
+liable for any breach of this EULA by any Permitted Third Party.
+
+1.3. Depending on the license purchased, or otherwise provided under the EULA,
+Press [Enter] to continue:
+the Software may be provided under the following license schemes:
+
+(i) "per named user "license: Each "per named user" license permits You to
+  install the Software on a maximum of three computers belonging to You or fully
+  controlled by You, provided that no other user uses the Software on those
+  computers. Each "per named" user license permits You to use the Software on
+  only one computer at a time.
+
+(ii) "per fixed computer" license: Each per fixed computer license permits Your
+  company to install and use the Software on only one physical or virtual
+  computer.
+
+(iii) "floating (roaming)" license: Each floating license permits Your company
+  to install the Software on as many computers as required. One floating license
+  permits one concurrent use of the Software.
+
+(iv) "teams" license: Each teams license permits Your company to install the
+  Software on as many computers as required. One teams license permits use of
+the
+  Software by one user, designated by your organization, from one computer at a
+time.
+
+1.4. This license to the Software also allows You to:
+Press [Enter] to continue:
+
+(i) make a reasonable number of backup copies solely for archival purposes.
+
+(ii) upon HEX-RAYS's express agreement, transfer the Software and all rights
+  under this license to a third party together with a copy of this license and
+all
+  Documentation, provided that the third party agrees to and complies with the
+  terms of this EULA. Upon transfer of the license to any third party, You lose
+  the right to use the Software and Documentation.
+
+1.5. Except for the Free License, the license is a temporary license subject to
+full payment of all invoices issued by HEX-RAYS for the Software. In the event
+that any payment for the Software is not received in a timely manner, you must
+immediately discontinue its use.
+
+2. Restrictions
+
+2.1. Except as expressly permitted by this EULA, You will not, nor permit or
+authorize anyone to:
+
+(i) distribute, convey, lend, lease, share, sell, transfer, sublicense, rent, or
+  time share any of the Software, or any of its components or product keys, or
+  permit third parties to download or install any Software;
+Press [Enter] to continue:
+(ii) copy, decompile, disassemble or reverse engineer or otherwise attempt to
+  extract or derive the source code or any methods, algorithms or procedures
+from
+  the Software, except as otherwise expressly permitted by applicable law, or
+  modify, adapt, translate or create derivative works based upon the Software;
+(iii) alter or circumvent any product, key or license restrictions, or transfer
+  or reassign a named user license or entitlement, in such a manner that enables
+  You to exceed purchased quantities, defeat any use restrictions, or allows
+  multiple users to share such entitlement to exceed purchased quantities;
+(iv) use, offer, embed, or otherwise exploit the Software, whether or not for a
+  fee, in any managed service provider (MSP) offering: platform as a service
+  (PaaS) offering; service bureau; or other similar product or offering,
+including
+  offering standalone Software as a hosted service;
+(v) use the Software if You are a competitor, or use the Software in any manner
+  that competes with HEX-RAYS, including but not limited to, benchmarking,
+  collecting and publishing data or analysis relating to the performance of the
+  Software, or developing or marketing a product that is competitive with any
+  Software or service without first inviting HEX-RAYS to review the results;
+(vi) use the Software in any manner or for any purpose that infringes,
+  misappropriates, or otherwise violates any intellectual property right or
+other
+  right of any third party or that violates any applicable law including Export
+Press [Enter] to continue:
+  Laws.
+
+3. INTELLECTUAL PROPERTY RIGHTS
+
+3.1. The Software and Documentation are licensed and not sold to You by
+HEX-RAYS. Except for the license expressly granted under this EULA, HEX-RAYS, on
+behalf of itself and its affiliates and suppliers, reserves all rights in and to
+the Software and Documentation not expressly granted to You. The rights in the
+Software and Documentation are valid and protected in all forms, media and
+technologies existing now or hereafter developed. If Software is provided to You
+on removable media, You may own the media on which the Software is delivered but
+Hex-Rays SA retains ownership of all copies of the Software itself.
+
+4. COLLECTION AND USE OF END USER DATA
+
+4.1. You acknowledge and agree that HEX-RAYS may review and use all feedback,
+data or other information provided by you via the use of the Software, including
+by uploading or creating data or content through the Software or information in
+connection with your use or performance of the Software ("End Users Data") for
+the purpose of verifying adherence to the terms and conditions set forth in this
+EULA and for any purpose related to your use of the Software, including but not
+limited to user analyses, improving the performance of the Software or
+developing updates. HEX-RAYS will be free and is hereby granted a non-exclusive,
+Press [Enter] to continue:
+royalty-free, worldwide, sublicensable, transferable license to (a) use such
+information and data during and after the term hereof to improve and enhance the
+Software and for other development, diagnostic and corrective purposes in
+connection with the Software and other offerings of HEX-RAYS, and (b) disclose
+such data in aggregate provided that such information does not directly or
+indirectly identify End Users Data.
+
+4.2. You grant HEX-RAYS a non-exclusive, royalty-free, worldwide, sublicensable,
+transferable, license to use, copy, store, modify, transmit and display End
+Users Data to the extent necessary to provide and maintain the Software.
+HEX-RAYS reserves the right, but is not obliged, to review and remove any End
+Users Data which is deemed to be in violation with the provisions of this EULA
+or otherwise inappropriate, any rights of third parties or any applicable
+legislation or regulation.
+
+5. DISCLAIMER
+
+5.1. The Software is provided "as is" without any express or implied warranty of
+any kind, included but not limited to any implied warranties of merchantability
+or fitness for a particular purpose. HEX-RAYS does not guarantee that the
+Software will operate without any interruption, meet any performance or
+reliability standards, achieve any kind of intended purpose, be compatible with
+any other software or system, or have errors that can be corrected.
+Press [Enter] to continue:
+
+6. INDEMNIFICATION
+
+6.1. You will defend, indemnify and hold harmless HEX-RAYS and its affiliates,
+independent contractors, service providers, suppliers, partners, resellers,
+distributors and consultants, and their respective directors, officers,
+employees and agents against any third party claims, suits or actions and any
+resulting damages, costs, liabilities and expenses (including, but not limited
+to, reasonable attorneys' fees) arising out of or related to: (a) your use of,
+or inability to use, the Software; or (b) your violation of any terms of this
+EULA.
+
+7. LIMITATION OF LIABILITY
+
+7.1. To the fullest extent permitted by the applicable law, in no event will
+Hex-Rays SA and its directors, affiliates, subsidiaries, contractors, agents,
+representatives and employees be labile for any consequential, special,
+incidental, or indirect damages, including but not limited to loss of use, loss
+of profits or loss of data, whether in an action in contract, tort, negligence,
+strict liability, or under any other theory of law or equity arising out of or
+in any way connected with the use or inability to use the Software, even if
+HEX-RAYS has been advised of the possibility of such damages. In no event shall
+the aggregate liability of HEX-RAYS and/or its affiliate, and their respective
+Press [Enter] to continue:
+directors, officers, employees and agents, whether in contract, warranty, tort,
+product liability or other theory, arising out or relating to this EULA or the
+Software, exceed the compensation paid, if any, to HEX-RAYS for the Software.
+
+7.2. We reserve the right to suspend or terminate your rights to use all or part
+of the Software for failure to comply with the terms of this EULA or the
+specific conditions of a particular Software.
+
+8. EXPORT LAWS AND SANCTIONS
+
+8.1. Some countries control the export of products and information (the "Export
+Laws"). Such Export Laws may apply to the Software and Documentation. If so, you
+agree that such laws govern your use of the Software and Documentation, and you
+agree to comply with all such Export Laws. You agree that no data, information,
+software programs and/or materials resulting from the Software (or direct
+product thereof) will be exported, directly or indirectly, in violation of these
+Export Laws.
+
+8.2. You represent and warrant that you are not a citizen of, or otherwise
+located within, an embargoed nation (including without limitation Iran, Syria,
+Sudan, Cuba, and North Korea) and that you are not otherwise prohibited under
+the Export Laws from receiving the Software. All rights to use the Software and
+Documentation are granted on condition that such rights are forfeited if you
+Press [Enter] to continue:
+fail to comply with the terms of this EULA.
+
+8.3. You warrant that as of the date of the signing of this EULA, You or any
+entity or person that has direct or indirect control of fifty percent or more of
+Your shares ("Affiliates") are not subject to any economic, trade or financial
+sanctions or other trade restrictions administered or enforced by the United
+Nations, the European Union, the United States of America or any other relevant
+jurisdiction, including, without limitation, the EU Consolidated list of
+persons, groups and entities subject to EU financial sanctions, the U.S.
+Treasury Department Office of Foreign Assets Control list of Specially
+Designated Nationals and Blocked Persons or any similar list maintained by any
+EU member state or the country of registration/residency of the End-User
+("Sanctions"). A breach of this warranty shall be a material default for the
+purpose of this EULA. You agree that if at any time after the date of formation
+of the EULA, You or any of Your Affiliates become subject to any Sanctions,
+whether introduced before or after such date, which prohibit or restrict Your
+performance of or rights under the EULA, or the performance of the EULA exposes
+You, or creates a risk of You being exposed, to any Sanctions, including,
+without limitation, any extraterritorial or secondary sanctions, HEX-RAYS may
+suspend or terminate the EULA upon such Sanctions becoming effective.
+
+8.4. You shall indemnify HEX-RAYS against any losses, liabilities, damages,
+fines, costs (including but not limited to legal fees) and expenses incurred by,
+Press [Enter] to continue:
+or awarded against, HEX-RAYS as a result of your breach of this obligation.
+
+9. TERMINATION
+
+9.1. HEX-RAYS may terminate with immediate effect your right to access and use
+of the Software, if HEX-RAYS believes or has reasonable grounds to suspect that
+you are violating the terms of this EULA.
+
+9.2. HEX-RAYS may, at any time and for any reason and at its sole discretion:
+(a) change, suspend or terminate, temporarily or permanently, the Software or
+any part or functionalities; or (b) restrict, suspend or terminate (in whole or
+in part) your access or use the Software and/or remove and discard any End User
+Data you may have contributed to or gained from the use of the Software; all
+without any notice or liability to you or any other person.
+
+9.3. Upon termination, You must promptly return, destroy, or permanently delete
+all copies of the Software and Documentation. You may terminate this license at
+any time by destroying the Software and all copies thereof.
+
+10. DATA PROTECTION
+
+10.1. You also acknowledge that when you download, install, or use the Software,
+HEX-RAYS has the right to automatically collect information on your use of the
+Press [Enter] to continue:
+Software. HEX-RAYS may also require that you provide information regarding
+yourself in order to download, install or use the Software. All information
+collected from You in connection with the Software may be used by HEX-RAYS in
+compliance with Hex Rays' Privacy Policy [https://hex-rays.com/privacy_policy/].
+By your using, installing, downloading, or providing information, you consent to
+the Privacy Policy and our use of your information in compliance thereof.
+
+11. MISCELLANEOUS
+
+11.1. Force Majeure. HEX-RAYS will not be liable for any failure or delay in the
+performance of its obligations with regard to the Software if such delay or
+failure is due to causes beyond our control including by not limited to acts of
+God, war, strikes or labor disputes, embargoes, government orders, pandemics,
+telecommunications, network, computer, server or Internet downtime,
+cyber-attacks, unauthorized access to HEX-RAYS's information technology systems
+by third parties or any other cause beyond the reasonable control of HEX-RAYS
+(the "Force Majeure Event").
+
+11.2. Severability. If any provision of this EULA is, for any reason, held to be
+invalid or unenforceable, the other provisions of this EULA will remain
+enforceable, and the invalid or unenforceable provision will be deemed modified
+so that it is valid and enforceable to the maximum extent permitted by law.
+
+Press [Enter] to continue:
+11.3. Waiver. Any failure to enforce any provision of this EULA will not
+constitute a waiver thereof or of any other provision.
+
+11.4. Assignment. You may not assign or transfer this EULA or any rights or
+obligations to any third party. HEX-RAYS will be free to (i) transfer or assign
+(part of) its obligations or rights under this EULA to one of its affiliates and
+(ii) to subcontract performance or the support of the performance of this EULA
+to its affiliates, to individual contractors and to third party service
+providers without prior notification to the End User.
+
+11.5. Governing law and jurisdiction. This EULA is governed by the laws of
+Belgium without regard to any conflict of law principles to the contrary. You
+hereby irrevocably consent to jurisdiction of the district courts of Li ge,
+Belgium with respect to any proceeding regarding this EULA or the Software. The
+1980 UN Convention for the International Sale of Goods or any successor thereto
+does not apply to this EULA.
+
+Press [Enter] to continue:
+
+Do you accept this license? [y/n]: y
+
+----------------------------------------------------------------------------
+Please specify the directory where Hex-Rays Vault will be installed.
+
+Installation Directory [/opt/hexvault]:
+
+----------------------------------------------------------------------------
+Initialization
+
+
+
+Perform basic configuration (choosing no will require you to manually configure
+it after installation)? [Y/n]:
+
+
+----------------------------------------------------------------------------
+Service User Name
+
+Please specify a user name to run the server as. It will be created if it
+doesn't already exist. [hexvault]: hexvault
+
+----------------------------------------------------------------------------
+Configure Service
+
+
+
+Setup a service using systemd [Y/n]:
+
+
+----------------------------------------------------------------------------
+Setup is now ready to begin installing Hex-Rays Vault on your computer.
+
+Do you want to continue? [Y/n]:
+
+----------------------------------------------------------------------------
+Please wait while Setup installs Hex-Rays Vault on your computer.
+
+ Installing
+ 0% ______________ 50% ______________ 100%
+ ####################################Warning: Problem running post-install step. Installation may not complete
+correctly
+ Error running systemctl daemon-reload: System has not been booted with systemd
+as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
+Press [Enter] to continue:
+#####
+
+----------------------------------------------------------------------------
+Installation Complete
+
+
+
+Installation complete; if you skipped configuration, please check the manual to
+configure the server.  If you configured the service, you can run it with
+
+systemctl start hexvault.service
+
+In any case, you'll need to activate your server add the obtained files to
+/opt/hexvault.
+
+You'll also need to initialize the database with the following command, run as
+the hexvault user:
+
+/opt/hexvault/vault_server -f /opt/hexvault/hexvault.conf -d
+/opt/hexvault/files/store --recreate-schema
+
+Press [Enter] to continue:
+
+----------------------------------------------------------------------------
+Setup has finished installing Hex-Rays Vault on your computer.
