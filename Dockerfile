@@ -1,4 +1,4 @@
-FROM python:3.11-bookworm
+FROM python:3.11-bookworm AS hexvault
 
 USER root
 
@@ -6,8 +6,14 @@ ADD https://github.com/gdraheim/docker-systemctl-replacement/raw/master/files/do
 
 RUN chmod 755 /usr/bin/systemctl
 
+RUN mkdir -p /opt/hexvault && chmod 777 /opt/hexvault
+
 RUN --mount=type=bind,target=/tmp/hexvault.run,source=hexvault.run \
-  echo "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ny\n\n\nroot\n\n\n\n\n" | /tmp/hexvault.run
+  echo "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ny\n" \
+       "/opt/hexvault\n" \
+       "\n" \
+       "root\n" \
+       "\n\n\n\n" | /tmp/hexvault.run
 
 RUN systemctl enable hexvault
 
@@ -31,3 +37,17 @@ ADD start.sh /
 CMD bash /start.sh
 
 EXPOSE 65433
+
+####################### Image2: auto generate cert
+
+FROM hexvault AS hexvault2
+
+RUN apt-get update && apt-get install -y openssl
+
+ENV VAULT_HOSTNAME=vault
+
+ADD fake_hexrays_ca /opt/fake_hexrays_ca
+ADD start2.sh /
+#ADD teamssrv-anon.hexlic /opt/hexvault
+
+CMD bash /start2.sh
